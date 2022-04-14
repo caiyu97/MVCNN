@@ -1,5 +1,5 @@
 # PyTorch code for MVDAN  
-A Pytorch implementation of Multi-view Dual Attention Network for 3D Object Recognitionn(MVDAN)
+A Pytorch implementation of Multi-view Dual Attention Network for 3D Object Recognitionn[MVDAN](https://link.springer.com/article/10.1007/s00521-021-06588-1) 
 
 In this paper, the 3D object recognition problem is converted to multi-view 2D image classification problem. For each 3D object, there are multiple images taken from different views
 
